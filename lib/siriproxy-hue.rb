@@ -13,8 +13,8 @@ require "matrix"
 
 
 class HueEntity
-  @@hueIP = "10.0.1.16"
-  @@hueKey = "7dcdc2716a5c8796367968c47ad7d44c"
+  @@hueIP = "192.168.1.15"
+  @@hueKey = "392a3b791868eaf74c031bd3bc907fb"
 
   attr_accessor :type
   attr_accessor :name
